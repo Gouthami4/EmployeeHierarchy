@@ -1,10 +1,23 @@
-Employee Hierarchy - Inheritance Demo
-Overview
-This project demonstrates inheritance in object-oriented programming using C#. It implements an employee hierarchy system where different types of employees share common properties and behaviors through inheritance.
-Design
-The system implements a class hierarchy with a base Employee class and two derived classes: Manager and Developer. This design demonstrates key OOP principles including inheritance, polymorphism, and encapsulation.
-Building and Testing
-dotnet build
-dotnet format --verify-no-changes
-dotnet test
-dotnet run --project EmployeeApp
+# Employee Hierarchy – Inheritance in C#
+
+## 📌 Project Info
+- **Author**: Gouthami (112201003)  
+- **Product**: EmployeeHierarchy  
+- **Project**: EmployeeApp  
+- **Topic**: Inheritance – Employee Hierarchy  
+
+---
+
+## 📖 Description
+This project demonstrates **Object-Oriented Inheritance** in C# with an Employee hierarchy:  
+
+- `Employee` (base class) defines common properties like `Id`, `Name`, and `Salary`.  
+- `Manager` (derived class) adds `TeamSize` and a `ManageProject()` method.  
+- `Developer` (derived class) adds `Language` and a `WriteCode()` method.  
+- Each derived class **overrides** `Describe()` to provide specialized information.  
+
+---
+
+## 🏗 UML Class Diagram
+
+# EmployeeHierarchy
