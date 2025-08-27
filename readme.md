@@ -1,4 +1,4 @@
-# Employee Hierarchy – Inheritance in C#
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/5289b6f7-ab16-48ae-aed1-d6315fade856" /># Employee Hierarchy – Inheritance in C#
 
 ## 📌 Project Info
 - **Author**: Gouthami (112201003)  
@@ -19,5 +19,6 @@ This project demonstrates **Object-Oriented Inheritance** in C# with an Employee
 ---
 
 ## 🏗 UML Class Diagram
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/8375e9b3-2f16-4e3e-a2d7-2e7ace055db4" />
 
 # EmployeeHierarchy
