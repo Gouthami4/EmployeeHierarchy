@@ -1,0 +1,14 @@
+/Users/berelligouthami/Desktop/software engineering/EmployeeApp/bin/Debug/net9.0/EmployeeApp
+/Users/berelligouthami/Desktop/software engineering/EmployeeApp/bin/Debug/net9.0/EmployeeApp.deps.json
+/Users/berelligouthami/Desktop/software engineering/EmployeeApp/bin/Debug/net9.0/EmployeeApp.runtimeconfig.json
+/Users/berelligouthami/Desktop/software engineering/EmployeeApp/bin/Debug/net9.0/EmployeeApp.dll
+/Users/berelligouthami/Desktop/software engineering/EmployeeApp/bin/Debug/net9.0/EmployeeApp.pdb
+/Users/berelligouthami/Desktop/software engineering/EmployeeApp/obj/Debug/net9.0/EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berelligouthami/Desktop/software engineering/EmployeeApp/obj/Debug/net9.0/EmployeeApp.AssemblyInfoInputs.cache
+/Users/berelligouthami/Desktop/software engineering/EmployeeApp/obj/Debug/net9.0/EmployeeApp.AssemblyInfo.cs
+/Users/berelligouthami/Desktop/software engineering/EmployeeApp/obj/Debug/net9.0/EmployeeApp.csproj.CoreCompileInputs.cache
+/Users/berelligouthami/Desktop/software engineering/EmployeeApp/obj/Debug/net9.0/EmployeeApp.dll
+/Users/berelligouthami/Desktop/software engineering/EmployeeApp/obj/Debug/net9.0/refint/EmployeeApp.dll
+/Users/berelligouthami/Desktop/software engineering/EmployeeApp/obj/Debug/net9.0/EmployeeApp.pdb
+/Users/berelligouthami/Desktop/software engineering/EmployeeApp/obj/Debug/net9.0/EmployeeApp.genruntimeconfig.cache
+/Users/berelligouthami/Desktop/software engineering/EmployeeApp/obj/Debug/net9.0/ref/EmployeeApp.dll
